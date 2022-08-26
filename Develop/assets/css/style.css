@@ -84,6 +84,7 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    list-style: none;
 }
 
 .benefit {
@@ -102,7 +103,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 
 
